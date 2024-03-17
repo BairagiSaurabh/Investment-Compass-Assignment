@@ -25,6 +25,9 @@
 - The app will retrieve search results from Wikipedia and display them.
 - Scroll through the search results to find the desired article.
 - Click on the "Open Article" button to open the selected article in a web browser.
+- App link : https://custom-search-engine.streamlit.app/
+
+![0](app_ss.png)
 
 5. Make a Dashboard to produce comprehensive reports and compile the findings. 
 
