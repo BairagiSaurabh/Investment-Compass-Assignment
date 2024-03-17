@@ -32,4 +32,8 @@
 - Live Dashboard for IOCL stock for last 4 years
 - Link : [Dashboard Link](https://app.powerbi.com/groups/me/reports/03fbc292-3ae8-4d65-82bf-c0f511dc3a52/ReportSection?bookmarkGuid=cccb8aac-ab0e-46aa-b8d2-e0e93cfa33ef&bookmarkUsage=1&ctid=b61fdd45-ee84-437e-9060-d64b9b28c5a3&portalSessionId=89340a19-da9d-4435-bcf7-cf2a724820d5&fromEntryPoint=export)
 
+![Page1](page1.PNG)
+![Page2](page2.PNG)
+
+
 
